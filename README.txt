@@ -1,5 +1,5 @@
-<!--# RoSA-KG
-
+# RoSA-KG
+<!--
 This is the PyTorch implementation of the paper "RoSA-KG: Semantic Structure Augmentation via Rule-driven Structural Roles for Knowledge Graph-based Recommendation".
 
 ---
@@ -20,7 +20,7 @@ Each dataset is stored in `data/<dataset>/` and shares a unified data format.
 | Yelp2018     | 45,919 | 45,538 | 90,961         | 42         | 1,853,704   | 1,185,068     |
 
 ---
--->
+--->
 
 ## Code Structure
 Main files and directories:
